@@ -1,0 +1,38 @@
+[
+  {
+    "color": "black",
+    "type": "cat",
+    "size": "medium",
+    "name": "Sumbuil"
+  },
+  {
+    "color": "brown",
+    "type": "cat",
+    "size": "medium",
+    "name": "Svelte"
+  },
+  {
+    "color": "gray",
+    "type": "cat",
+    "size": "medium",
+    "name": "Calli"
+  },
+  {
+    "color": "lightbrown",
+    "type": "cat",
+    "size": "medium",
+    "name": "Ulmawa"
+  },
+  {
+    "color": "orange",
+    "type": "cat",
+    "size": "medium",
+    "name": "Pumbah"
+  },
+  {
+    "color": "white",
+    "type": "cat",
+    "size": "medium",
+    "name": "Sarah"
+  }
+]
